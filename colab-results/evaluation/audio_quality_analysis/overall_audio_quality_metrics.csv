@@ -1,0 +1,2 @@
+predictions_file,metadata_file,samples,skipped_samples,overall_wer,overall_cer,mean_sample_wer,mean_sample_cer,mean_duration_seconds,mean_words_per_second,mean_rms_db,mean_silence_ratio,mean_snr_proxy_db,compute_pitch
+results/finetuned_predictions_2epochs_final.csv,data/processed/metadata_with_clusters_and_split.csv,408,0,0.17656988521269412,0.04804532577903683,0.17217880839204366,0.04629416259514587,4.404235294117647,1.692255470972218,-26.862794341182923,0.34653286472397304,66.64477194966832,False

@@ -1,0 +1,2 @@
+predictions_file,samples,overall_wer,overall_cer,mean_sample_wer,mean_sample_cer
+results/finetuned_predictions_2epochs_final.csv,408,0.17656988521269412,0.04804532577903683,0.17217880839204366,0.04629416259514587

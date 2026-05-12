@@ -1,0 +1,4 @@
+model,split,samples,wer,cer,notes,wer_relative_reduction_vs_baseline,cer_relative_reduction_vs_baseline
+openai/whisper-small baseline,test,408,0.287,0.0828,pre-trained baseline,0.0,0.0
+whisper-small fine-tuned final 2 epochs,test,408,0.1766,0.048,best result,0.38466898954703826,0.42028985507246375
+whisper-small fine-tuned checkpoint-400,test,408,0.1789,0.0487,intermediate checkpoint,0.3766550522648083,0.41183574879227053

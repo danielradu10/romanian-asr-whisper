@@ -1,0 +1,2 @@
+model,processor,test_csv,samples,wer,cer,num_beams,generation_max_length
+/content/drive/MyDrive/romanian-asr-results/whisper-small-ro-finetuned-2epochs,/content/drive/MyDrive/romanian-asr-results/whisper-small-ro-finetuned-2epochs,data/processed/test.csv,408,0.17656988521269412,0.04804532577903683,1,225

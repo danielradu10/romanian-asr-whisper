@@ -1,0 +1,2 @@
+model,processor,test_csv,samples,wer,cer,num_beams,generation_max_length
+/content/drive/MyDrive/romanian-asr-results/whisper-small-ro-finetuned-2epochs/checkpoint-400,/content/drive/MyDrive/romanian-asr-results/whisper-small-ro-finetuned-2epochs,data/processed/test.csv,408,0.17893315327481432,0.0486685552407932,1,225

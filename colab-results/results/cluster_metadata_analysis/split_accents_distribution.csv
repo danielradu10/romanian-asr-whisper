@@ -1,0 +1,15 @@
+split,accents,samples,total_samples,percentage
+test,unknown,395,408,0.9681372549019608
+test,Muntenesc,10,408,0.024509803921568627
+test,i have a eastern european accent|calm accent,2,408,0.004901960784313725
+test,Moldovenesc,1,408,0.0024509803921568627
+train,unknown,3208,3450,0.9298550724637681
+train,Muntenesc,127,3450,0.03681159420289855
+train,nativ,46,3450,0.013333333333333334
+train,Fără accent,38,3450,0.011014492753623189
+train,Moldovan,14,3450,0.004057971014492754
+train,Influenced by Russian|Moldovenesc,10,3450,0.002898550724637681
+train,Lived in France for 10 years|Muntenesc,6,3450,0.0017391304347826088
+train,i have a eastern european accent|calm accent,1,3450,0.0002898550724637681
+validation,unknown,420,429,0.9790209790209791
+validation,Muntenesc,9,429,0.02097902097902098

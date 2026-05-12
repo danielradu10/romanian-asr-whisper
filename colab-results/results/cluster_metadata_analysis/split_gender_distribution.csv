@@ -1,0 +1,10 @@
+split,gender,samples,total_samples,percentage
+test,unknown,193,408,0.4730392156862745
+test,male_masculine,185,408,0.4534313725490196
+test,female_feminine,30,408,0.07352941176470588
+train,male_masculine,2069,3450,0.5997101449275363
+train,unknown,840,3450,0.24347826086956523
+train,female_feminine,541,3450,0.15681159420289856
+validation,unknown,202,429,0.47086247086247085
+validation,male_masculine,170,429,0.3962703962703963
+validation,female_feminine,57,429,0.13286713286713286

@@ -1,0 +1,7 @@
+split,variant,samples,total_samples,percentage
+test,unknown,397,408,0.9730392156862745
+test,Romanian-Romania,11,408,0.02696078431372549
+train,unknown,3307,3450,0.9585507246376812
+train,Romanian-Romania,143,3450,0.04144927536231884
+validation,unknown,420,429,0.9790209790209791
+validation,Romanian-Romania,9,429,0.02097902097902098

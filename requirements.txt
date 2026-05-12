@@ -1,0 +1,15 @@
+torch
+torchaudio
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+librosa
+soundfile
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+gradio

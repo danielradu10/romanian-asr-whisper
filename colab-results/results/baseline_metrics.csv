@@ -1,0 +1,2 @@
+model,split,samples,wer,cer
+openai/whisper-small,test,408,0.28696826468602293,0.08277620396600567
